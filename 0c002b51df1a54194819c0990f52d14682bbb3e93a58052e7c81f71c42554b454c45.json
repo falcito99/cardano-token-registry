@@ -1,0 +1,54 @@
+{
+    "subject": "0c002b51df1a54194819c0990f52d14682bbb3e93a58052e7c81f71c42554b454c45",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://bukeletoken.webador.com/",
+        "signatures": [
+            {
+                "signature": "1915821e56619d28b0fbdc510d643e9994708d219e1ff0c7766aa2baf442ef6592d4034490974afd5ee231e0363e425a8e1259ad86d1e6d73d0dfadb3f69ec0c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BUKELE",
+        "signatures": [
+            {
+                "signature": "d26c41be3f08a8ef335fa40b9cb209ca9e54b8933363a381097cd04ffac25b2f2f831633ec03e8e24c9ec18301788517b18dd171cc1ee58caa20945f8d52f40d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BUKELE",
+        "signatures": [
+            {
+                "signature": "d578da3553eca7d0f80ee4fa714a93f7b79ebd26577e43976bf2dd1cf12a0d5a6865adc1bf867296e3acd6939a1fb07b21883ec7dc68404211907586e8bee209",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "4d7bb75fc69d5705648ef837b35a1e48fe030f4ca1f86b84087f32d9be103f119a469cfa3d3881247f89862876bf685e727efaa333268dcbf030c5e11c1e4500",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05c0e25a8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The token for the people",
+        "signatures": [
+            {
+                "signature": "c1c22f6d77f3d05369b57f148a59b9e05c5b0ba7a7e8f4b3aa0759220e2624627e62a18dd09b3d3aa3f6410ded891fd2da4bfaf6cecd28f7f8fb8d5e13931f04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
